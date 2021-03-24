@@ -1,0 +1,50 @@
+.stickybar{
+    padding-top: 10px;
+}
+.body{
+    min-height: 500px;
+    background-color: wheat;
+}
+.content{
+    background-color: whitesmoke;
+    padding-left: 100px;
+}
+.men{
+    padding-left: 112px;
+    padding-right: 50px;
+}
+.women{
+    padding-left: 50px;
+}
+.body{
+    text-align: center;
+    padding-top:20px ;
+}
+.h4{
+    padding-top: 20px;
+}
+.navbar{
+    padding-left: 100px;
+}
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.col{
+    padding-left: 100px; 
+}
+.lefthand{
+    padding-left: 20px;
+}
+.card-body{
+    text-align: center;
+}
+.fas .far{
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.tp{
+    text-align: right;
+    text-underline-position: auto;
+}
